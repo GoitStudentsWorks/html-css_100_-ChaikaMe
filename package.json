@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/profit-project/",
+    "build": "vite build --base=/html-css_100_-ChaikaMe/",
     "preview": "vite preview"
   },
   "devDependencies": {
